@@ -4,7 +4,7 @@
 
 ## Description
 
-Building the back end for an e-commerce site, using a working Express.js API and configure it to use Sequelize to interact with a MySQL database. 
+Building the back end for an e-commerce site, using a working Express.js API and configuring it to use Sequelize to interact with a MySQL database. 
 
 ![Screen Shot 2021-08-13 at 4 42 28 PM](https://user-images.githubusercontent.com/78171259/129416515-b43d81e2-cded-4533-bae0-fd4008769796.png)
 
