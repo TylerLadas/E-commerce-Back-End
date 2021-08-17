@@ -50,7 +50,7 @@ npm start
 
 ## Usage
 
-Please view the demo video of testing the API routes at the provided url: 
+Please view the demo video of testing the API routes at the provided url: https://drive.google.com/file/d/1uGs8dzY6Nr0TLtJ7pmUtOpv3mtgGyDPV/view
 
 ## License
     
